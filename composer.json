@@ -6,7 +6,8 @@
   "homepage": "http://accessmanager.in",
   "require": {
     "php": ">=5.6.4",
-    "access-manager/base": "dev-master"
+    "access-manager/base": "dev-master",
+    "danielstjules/stringy": "^3.1"
   },
   "autoload": {
     "psr-4": {
